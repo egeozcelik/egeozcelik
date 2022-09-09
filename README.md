@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ege Özçelik</h1>
-<h3 align="center">A passionate web and game development. I love to learn new technologies and build things with using them</h3>
+<h3 align="center">A passionate web and game development. I love to learn new technologies and build things with using them.</h3>
 
 <p align="left"> <a href="https://twitter.com/ozcilek__" target="blank"><img src="https://img.shields.io/twitter/follow/ozcilek__?logo=twitter&style=for-the-badge" alt="ozcilek__" /></a> </p>
 
