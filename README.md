@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ege Özçelik</h1>
-<h4 align="left">Electrical and Electronics Engineer. </h4> <h3 align="left">Passionate Full-Stack developer pushing boundaries, encouraging new challenges, and coding for both hobby and all other projects to fuel personal growth. I love to learn new technologies and build things with using them. </h3>
+<h3 align="left">Electrical and Electronics Engineer. </h3> <h4 align="left">Passionate Full-Stack developer pushing boundaries, encouraging new challenges, and coding for both hobby and all other projects to fuel personal growth. I love to learn new technologies and build things with using them. </h4>
 
 
 
