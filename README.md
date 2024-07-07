@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ege Özçelik</h1>
-<h3 align="left">BSc Electrical&Electronics Engineer - Embedded Software Developer </h3> <h4 align="left">Passionate developer pushing boundaries, encouraging new challenges, and coding for both hobby and all other projects to fuel personal growth. I love to learn new technologies and build things with using them. </h4>
+<h3 align="left">BSc Electrical&Electronics Engineer | Software Developer </h3> <h4 align="left">Passionate developer pushing boundaries, encouraging new challenges, and coding for both hobby and all other projects to fuel personal growth. I love to learn new technologies and build things with using them. </h4>
 
 
 
